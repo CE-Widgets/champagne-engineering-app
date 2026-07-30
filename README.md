@@ -1,6 +1,6 @@
 # Champagne Engineering
 
-Official mobile companion for Champagne Engineering.
+Official Android companion app for Champagne Engineering.
 
 ## Repository Purpose
 
