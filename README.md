@@ -2,6 +2,10 @@
 
 Official mobile companion for Champagne Engineering.
 
+## Repository Purpose
+
+This public repository is maintained for Champagne Engineering mobile application documentation, release notes, and issue tracking. It does not contain the application source code.
+
 ## Features
 
 - Quick access to the Champagne Engineering website
