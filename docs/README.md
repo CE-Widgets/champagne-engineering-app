@@ -5,3 +5,4 @@ This directory contains documentation for the Champagne Engineering mobile appli
 ## Contents
 
 - Release Notes
+- Screenshots in [screenshots](screenshots/)
