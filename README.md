@@ -41,3 +41,7 @@ Additional documentation is available in the [docs](docs/) directory.
 Website: https://champagne.engineering
 
 Email: support@champagne.engineering
+
+## Copyright
+
+© 2026 Champagne Engineering, LLC. All rights reserved.
