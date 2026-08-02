@@ -1,17 +1,23 @@
 # Champagne Engineering
 
-Official Android companion app for Champagne Engineering.
+**Status:** 🟢 Production
 
-**Status:** 🟢 Available
+![Champagne Engineering software development and technical consulting](docs/feature-graphic.png)
+
+## Google Play
+
+[View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.twa)
+
+## Overview
+
+The official Android companion app for Champagne Engineering.
+
+It provides quick access to the Champagne Engineering website and common destinations from your home screen.
 
 ## Features
 
 - Quick access to the Champagne Engineering website
 - Home-screen shortcuts for Services, Contact, and Privacy Policy
-
-## Google Play
-
-[View on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.twa)
 
 ## Screenshots
 
@@ -32,7 +38,7 @@ This public repository is maintained for Champagne Engineering mobile applicatio
 Additional documentation is available in the [docs](docs/) directory.
 
 - [Release Notes](docs/release-notes.md)
-- [Website](https://champagne.engineering)
+- [Product Page](https://champagne.engineering/champagne-engineering-app)
 - [Privacy Policy](https://champagne.engineering/privacy)
 - [Terms of Service](https://champagne.engineering/tos)
 
