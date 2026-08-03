@@ -1,6 +1,6 @@
 # Champagne Engineering
 
-**Status:** 🟢 Production — version `3`
+**Status:** 🟢 Production — version `2026.08.03-1`
 
 ![Champagne Engineering software development and technical consulting](docs/feature-graphic.png)
 
