@@ -1,8 +1,9 @@
-# Champagne Engineering Documentation
+# Champagne Engineering App Documentation
 
 This directory contains documentation for the Champagne Engineering mobile application.
 
 ## Contents
 
-- Release Notes
-- Screenshots in [screenshots](screenshots/)
+- [Release Notes](release-notes.md)
+- [Screenshots](screenshots/)
+- [Product Page](https://champagne.engineering/champagne-engineering-app)
